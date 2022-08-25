@@ -1,0 +1,21 @@
+nav{
+    height: 8vh;
+    font-size: 1.5em;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+img{
+    height: 50vh;
+    border: 2px solid black;
+    margin: 10px;
+}
+#section{
+    margin-top: 20px;
+}
+#footer{
+    height: 10vh;
+    font-size: 1.2em;
+}
